@@ -1,4 +1,4 @@
-# [![waylon walker header](https://media.discordapp.net/attachments/787582343984185354/926024378649550898/Izana.png)](https://waylonwalker.com)
+# [![waylon walker header](https://media.discordapp.net/attachments/787582343984185354/926024378649550898/Izana.png)](https://youtu.be/JpzM4MLXKj8)
 
 <p>
   <a href="https://media.discordapp.net/attachments/787582343984185354/926028476773974016/12c0dbdd4a1b2d22.png?width=1191&height=670"><img width="150" align='right' src="https://media.discordapp.net/attachments/787582343984185354/926028476773974016/12c0dbdd4a1b2d22.png?width=1191&height=670"></a>
