@@ -19,7 +19,7 @@
   ---
  
  <p>
-  <img width="250" align='left' src="https://media.discordapp.net/attachments/787582343984185354/926046507071852574/1.png">
+  <img width="250" align='left' src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/Tintu.png">
 </p>
  
 ### **☯天竺總會☯**
@@ -28,7 +28,7 @@
 **『我是頭腦，你們像是四肢，原則上，四肢要忠實服從頭腦的指令，不過，這是組織運作機能上的原則，和生死無關.......要是頭腦死了，只要有人繼承位子即可，有時候，四肢比頭腦更重要，別本末倒置，我的命令最優先，但不需把我的生命放第一位我也是公司的一分子，必須活著的不是個人，而是公司，不要忘了這一點........』**
 
  ---
-  ![Snake animation](https://github.com/Izana7822/D/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IllumiLove/github-contribution-grid-snake/blob/main/github-contribution-grid-snake.svg)
  
 </div>
 
