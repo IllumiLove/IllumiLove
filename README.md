@@ -5,9 +5,9 @@
 </p>
 
 <p align='center'>
-<a href="https://illumi.show/"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926029392382156840/instagram_PNG11.png?width=671&height=670"></a>&nbsp;&nbsp;
-<a href="https://www.twitch.tv/sakumaillumi"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926038077015736340/how-to-download-facebook-icon-8.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCe3E1SH6rpDEQ0ya6djBWpQ"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926040192022884382/github-icon-1.png"></a>&nbsp;&nbsp;
+<a href="https://illumi.show/"><img height="30" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/Website.png"></a>&nbsp;&nbsp;
+<a href="https://www.twitch.tv/sakumaillumi"><img height="30" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/twitch.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCe3E1SH6rpDEQ0ya6djBWpQ"><img height="30" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/youtube.png"></a>&nbsp;&nbsp;
 </a>
 </p>
 
