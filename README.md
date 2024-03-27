@@ -6,7 +6,7 @@
 
 <p align='center'>
 <a href="https://illumi.show/"><img height="30" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/Website.png"></a>&nbsp;&nbsp;
-<a href="https://www.twitch.tv/sakumaillumi"><img height="30" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/twitch.png"></a>&nbsp;&nbsp;
+<a href="https://www.twitch.tv/sakumaillumi"><img height="30" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/twitchTV.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCe3E1SH6rpDEQ0ya6djBWpQ"><img height="30" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/youtube.png"></a>&nbsp;&nbsp;
 </a>
 </p>
