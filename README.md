@@ -1,7 +1,7 @@
-# [![waylon walker header](https://media.discordapp.net/attachments/787582343984185354/926024378649550898/Izana.png)](https://youtu.be/JpzM4MLXKj8)
+# [![waylon walker header](https://github.com/IllumiLove/IllumiLove/blob/main/banners/Illumi.png)](https://youtu.be/JpzM4MLXKj8)
 
 <p>
-  <a href="https://media.discordapp.net/attachments/787582343984185354/926028476773974016/12c0dbdd4a1b2d22.png?width=1191&height=670"><img width="150" align='right' src="https://media.discordapp.net/attachments/787582343984185354/926028476773974016/12c0dbdd4a1b2d22.png?width=1191&height=670"></a>
+  <a href="https://github.com/IllumiLove/IllumiLove/blob/main/banners/Love%20Illumi.png"><img width="150" align='right' src="https://github.com/IllumiLove/IllumiLove/blob/main/banners/Love%20Illumi.png"></a>
 </p>
 
 <p align='center'>
