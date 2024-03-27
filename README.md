@@ -5,11 +5,10 @@
 </p>
 
 <p align='center'>
-<a href="https://www.instagram.com/izana_1122/"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926029392382156840/instagram_PNG11.png?width=671&height=670"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/KurokawaIzana7822/"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926038077015736340/how-to-download-facebook-icon-8.jpg"></a>&nbsp;&nbsp;
-<a href="https://github.com/Izana7822"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926040192022884382/github-icon-1.png"></a>&nbsp;&nbsp;
-<a href="https://www.discordfriendly.com/"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926040521238011904/FELOGO.png"></a>
-<a href="https://cn.pornhub.com/video"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926041256222679050/ap-tokens-token-png-332_334.png"></a>
+<a href="https://illumi.show/"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926029392382156840/instagram_PNG11.png?width=671&height=670"></a>&nbsp;&nbsp;
+<a href="https://www.twitch.tv/sakumaillumi"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926038077015736340/how-to-download-facebook-icon-8.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCe3E1SH6rpDEQ0ya6djBWpQ"><img height="30" src="https://media.discordapp.net/attachments/787582343984185354/926040192022884382/github-icon-1.png"></a>&nbsp;&nbsp;
+</a>
 </p>
 
 **Hi 早安 👋,**
