@@ -1,4 +1,4 @@
-# [![waylon walker header](https://github.com/IllumiLove/IllumiLove/blob/main/banners/Illumi.png)](https://youtu.be/JpzM4MLXKj8)
+# [![waylon walker header](https://github.com/IllumiLove/IllumiLove/blob/main/banners/Illumi.png)](https://illumi.show/)
 
 <p>
   <a href="https://github.com/IllumiLove/IllumiLove/blob/main/banners/Love%20Illumi.png"><img width="150" align='right' src="https://github.com/IllumiLove/IllumiLove/blob/main/banners/Love%20Illumi.png"></a>
