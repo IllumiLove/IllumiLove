@@ -21,7 +21,7 @@
   <img width="250" align='left' src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/Tintu.png">
 </p>
  
-## **☯天竺總會☯**
+### **☯天竺總會☯**
 
 ### 📜 組織核心信條
 - 誠信為本：對內對外皆秉持透明、坦誠，不欺瞞、不掩飾。
