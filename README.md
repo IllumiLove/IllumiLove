@@ -1,13 +1,13 @@
-# [![waylon walker header](https://github.com/IllumiLove/IllumiLove/blob/main/banners/Illumi.png)](https://illumi.love/)
+# [![waylon walker header](./banners/Illumi.png)](https://illumi.love/)
 
 <p>
-  <a href="https://github.com/IllumiLove/IllumiLove/blob/main/banners/Love%20Illumi.png"><img width="150" align='right' src="https://github.com/IllumiLove/IllumiLove/blob/main/banners/Love%20Illumi.png"></a>
+  <a href="https://github.com/IllumiLove/IllumiLove/blob/main/banners/Love%20Illumi.png"><img width="150" align='right' src="./banners/Love%20Illumi.png"></a>
 </p>
 
 <p align='center'>
-<a href="https://illumi.love/"><img height="50" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/Website.png"></a>&nbsp;&nbsp;
-<a href="https://www.twitch.tv/sakumaillumi"><img height="50" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/Twitch.png"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCe3E1SH6rpDEQ0ya6djBWpQ"><img height="50" src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/youtube.png"></a>&nbsp;&nbsp;
+<a href="https://illumi.love/"><img height="50" src="./banners/icon/Website.png"></a>&nbsp;&nbsp;
+<a href="https://www.twitch.tv/sakumaillumi"><img height="50" src="./banners/icon/Twitch.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCe3E1SH6rpDEQ0ya6djBWpQ"><img height="50" src="./banners/icon/youtube.png"></a>&nbsp;&nbsp;
 </a>
 </p>
 
@@ -18,7 +18,7 @@
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/IllumiLove/IllumiLove/blob/main/icon/Tintu.png">
+  <img width="250" align='left' src="./banners/icon/Tintu.png">
 </p>
  
 ### **☯天竺總會☯**
@@ -27,7 +27,8 @@
 - 誠信為本：對內對外皆秉持透明、坦誠，不欺瞞、不掩飾。
 - 制度優先：尊重組織層級與決策流程，確保權責分明，禁止以下犯上。
 - 公私分明：工作關係清晰，嚴禁因私交干擾專業判斷，杜絕私情左右決策。
-> **天竺集團是一家專業的獵頭顧問公司，專注於協助企業尋覓關鍵人才，並提供企業資訊安全滲透測試與資安風險報告。我們結合人力資源與資安專業，協助客戶在人力與安全層面達到雙重優勢。**
+
+**天竺集團是一家專業的獵頭顧問公司，專注於協助企業尋覓關鍵人才，並提供企業資訊安全滲透測試與資安風險報告。我們結合人力資源與資安專業，協助客戶在人力與安全層面達到雙重優勢。**
 
  ---
   ![Snake animation](https://github.com/IllumiLove/github-contribution-grid-snake/blob/main/github-contribution-grid-snake.svg)
